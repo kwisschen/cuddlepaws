@@ -45,3 +45,12 @@
 #footer {
   color: black;
 }
+
+.btn-danger {
+  background-color: #E25470;
+}
+
+#forever-love {
+  background-color: #E25470;
+  color: white;
+}
